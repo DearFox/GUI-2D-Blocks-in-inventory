@@ -1,6 +1,8 @@
 # GUI 2D Blocks in inventory
 You can download it here:
+
 curseforge: https://www.curseforge.com/minecraft/texture-packs/gui-2d
+
 planetminecraft: https://www.planetminecraft.com/texture-pack/gui-2d-blocks-in-inventory/
 
 Use this repository for Issues : https://github.com/DearFox/GUI-2D-Blocks-in-inventory-Issues/issues
